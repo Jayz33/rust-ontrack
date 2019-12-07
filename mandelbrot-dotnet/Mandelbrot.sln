@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mandelbrot", "Mandelbrot\Mandelbrot.csproj", "{F7CFE4B3-CBE3-4D40-9B54-C34E74CCA687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mandelbrot.NetCore", "Mandelbrot.NetCore\Mandelbrot.NetCore.csproj", "{CBFE72A7-A483-452E-A347-258264C55080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CFE4B3-CBE3-4D40-9B54-C34E74CCA687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CFE4B3-CBE3-4D40-9B54-C34E74CCA687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CFE4B3-CBE3-4D40-9B54-C34E74CCA687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CFE4B3-CBE3-4D40-9B54-C34E74CCA687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFE72A7-A483-452E-A347-258264C55080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFE72A7-A483-452E-A347-258264C55080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFE72A7-A483-452E-A347-258264C55080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFE72A7-A483-452E-A347-258264C55080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807AA0F3-1999-432E-AA82-6325F07026C4}
+	EndGlobalSection
+EndGlobal
