@@ -1,0 +1,12 @@
+{
+  "name": "hello-wasm-pack-angular8",
+  "version": "0.1.0",
+  "files": [
+    "hello_wasm_pack_angular8_bg.wasm",
+    "hello_wasm_pack_angular8.js",
+    "hello_wasm_pack_angular8.d.ts"
+  ],
+  "module": "hello_wasm_pack_angular8.js",
+  "types": "hello_wasm_pack_angular8.d.ts",
+  "sideEffects": "false"
+}

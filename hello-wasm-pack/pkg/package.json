@@ -1,0 +1,12 @@
+{
+  "name": "hello-wasm-pack",
+  "version": "0.1.0",
+  "files": [
+    "hello_wasm_pack_bg.wasm",
+    "hello_wasm_pack.js",
+    "hello_wasm_pack.d.ts"
+  ],
+  "module": "hello_wasm_pack.js",
+  "types": "hello_wasm_pack.d.ts",
+  "sideEffects": "false"
+}

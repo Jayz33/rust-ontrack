@@ -1,0 +1,1 @@
+import('./index.js').catch(r => console.log("Failed to load index.js"));
